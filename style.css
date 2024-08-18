@@ -1,0 +1,36 @@
+.header{
+    height:60px;
+    background-color:#0f1111;
+    
+}
+#logo{
+    color:#f08804;
+    font-size: 25px;
+    text-decoration:none;
+    margin-right: 200px;
+}
+#card{
+    text-decoration:none;
+    color:aliceblue;
+    margin-right: 200px;
+}
+button{
+    background-color:#f08804;
+
+}
+#box{
+    height: 100px;
+    width: 100px;
+    background-color:pink;
+    border:2px solid black;
+    text-align:center;
+    display:inline-block;
+}
+.content{
+    height:650px;
+}
+footer{
+    background-color:#0f1111;
+    color:aliceblue;
+    text-align:center
+}
